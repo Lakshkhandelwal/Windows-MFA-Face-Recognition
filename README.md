@@ -1,5 +1,5 @@
 # Windows MFA Based on Face-Recognition
-A Windows 10 Dual Factor Authentication Tool based on ML that runs continuously and locks the system if user has left the machine unattended
+A Windows 10 Dual Factor Authentication Tool based on Machine Learning that will lock the system if user has left the machine unattended, meaning if the program can't detect your face it will lock the machine after 5 Seconds.
 
 ## Instructions for direct execution without python or any other dependency installed.
 1. Download or Clone the repository.
