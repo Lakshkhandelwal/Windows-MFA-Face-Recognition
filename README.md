@@ -31,7 +31,7 @@ Caution : Do not rename the input file or exe file.
 4. Use the steps as described above to train and start the program and the lock mechanism.
 
 #### Demo Video Link
-[Linkedin Link](https://www.linkedin.com/in/laksh-khandelwal/)
+[Linkedin Link](https://www.linkedin.com/feed/update/urn:li:activity:6669279302581932032/)
 
 
 ## LICENSE
